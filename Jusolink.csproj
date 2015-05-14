@@ -39,6 +39,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Response.cs" />
     <Compile Include="SearchResult.cs" />
+    <Compile Include="SidoCount.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\..\..\..\..\jusolink.example.dotnet2005\Linkhub\Linkhub.csproj">
