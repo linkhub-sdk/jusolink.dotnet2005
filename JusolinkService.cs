@@ -52,7 +52,6 @@ namespace Jusolink
             String url;
             if(PerPage != null){
                 if(PerPage <0) PerPage = 20;
-                if(PerPage >50) PerPage = 50;
             }
 
             if(index == null ) {
